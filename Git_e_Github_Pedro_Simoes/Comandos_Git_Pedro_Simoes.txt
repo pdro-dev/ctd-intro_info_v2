@@ -1,0 +1,36 @@
+
+Clonar um repositório existente:
+git clone <endereço https ou ssh>
+
+Criar um novo repositório local:
+git init
+
+Verificar estado dos arquivos/diretórios prontos para commit ("staged")
+git status
+
+Adicionar arquivo/diretório (staged area)
+git add <nome_arquivo/diretorio>
+
+Adicionar todos os arquivos/diretórios
+git add .
+
+Comitar um arquivo (e varios arquivos)
+git commit <nome_arquivo>
+git commit <nome_arquivo1> <nome_arquivo2>
+
+"Comitar" com mensagem
+git commit <nome_arquivo> -m "mensagem"
+git commit -m "mensagem"
+
+Remover arquivo da "staged area"
+git rm <nome_arquivo>
+
+Enviar arquivos/diretórios para o repositório remoto
+git push
+
+Atualizar os arquivos no repositório local
+git pull
+
+Trocar para um branch existente
+git checkout <nome_branch>
+

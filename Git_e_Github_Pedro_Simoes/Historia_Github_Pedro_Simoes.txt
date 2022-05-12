@@ -1,0 +1,9 @@
+
+Quem inventou o sistema de controle de versão Git e por quê?
+Sistema criado por Linus Torvalds 
+
+Quem atualmente é o dono do Github e por quê?
+Microsoft comprou o Github em 2018 para integrar outras ferramentas de desenvolvimento de software
+
+Existe outra maneira, além do terminal, de trabalhar com o Github?
+Modo gráfico e Web
